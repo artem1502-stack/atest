@@ -3,6 +3,7 @@ setup.cfg
 setup.py
 src/mysucla/__init__.py
 src/mysucla/mysuper.py
+src/mysucla/py.typed
 src/mysucla.egg-info/PKG-INFO
 src/mysucla.egg-info/SOURCES.txt
 src/mysucla.egg-info/dependency_links.txt

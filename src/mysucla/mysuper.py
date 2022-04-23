@@ -16,5 +16,5 @@ class MySuperClass:
 		return c
 
 
-if __name__ == '__main__':
-	print("MySUSUCLASSSSS, HELL YEAH!!!")
+def sk_do(a):
+	return len(a) >= 5
